@@ -18,7 +18,7 @@ Ensure you have the required libraries installed:
 
 📈 Results
 
-The machine learning model achieves an accuracy of XX% in predicting student placements, providing valuable insights for career guidance.
+The machine learning model achieves an accuracy of 90% in classifying student placements, providing valuable insights for career guidance.
 
 📂 Project Structure
 
